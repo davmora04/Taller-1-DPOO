@@ -1,0 +1,13 @@
+tipo:Regular:11000:250000.0
+tipo:Etanol:15000:50000.0
+tipo:Diesel:17000:200000.0
+tipo:Premium:18000:75000.0
+surtidor:Oscar:Regular:0.0:Etanol:0.0:Diesel:0.0:Premium:0.0
+surtidor:Oscar:Regular:0.0:Etanol:0.0:Diesel:0.0:Premium:0.0
+surtidor:David:Regular:0.0:Etanol:0.0:Diesel:0.0:Premium:0.0
+surtidor:David:Regular:0.0:Etanol:0.0:Diesel:0.0:Premium:0.0
+empleado:Luz:0
+empleado:Laura:0
+empleado:Juan Jose:0
+empleado:David:0
+empleado:Oscar:0
